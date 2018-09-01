@@ -1,0 +1,18 @@
+{
+	"name": "16springboot07_jsp_mybatis",
+	"version": "0.0.0",
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"bootstrap": "4.0.0",
+		"jquery": "3.3.1",
+		"bootstrap-datepicker":">1.6",
+		"uri-util":"1.1.0"
+}
+}

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: 18springboot09_jsp_hib
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ZhangJunChao
+Implementation-Vendor-Id: cn.edu.nyist
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/18springboot
+ 09_jsp_hib/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
